@@ -10,6 +10,7 @@ public class MainMenu : MonoBehaviour
     public Button optionsButton;
     public Button aboutButton;
     public Button loadGameButton;
+    public Button helpButton;
 
     public void PlayGame()
     {
